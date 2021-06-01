@@ -88,7 +88,7 @@ tornado==4.5.2
 traitlets==4.3.2
 Twisted==17.9.0
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.18.0
 wcwidth==0.1.7
 wechatpy==1.5.1
